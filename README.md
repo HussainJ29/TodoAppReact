@@ -14,16 +14,15 @@ To get started with the Todo App, follow these steps:
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/your-username/todo-app.git
 cd todo-app
+
 ###2. Install Dependencies
 Install the necessary dependencies using npm or yarn:
-
 bash
-
 npm install
-# or
+or
 yarn install
 ###3. Start the Development Server
 Run the following command to start the development server:
@@ -31,7 +30,7 @@ Run the following command to start the development server:
 bash
 
 npm run dev
-# or
+or
 yarn dev
 Open your browser and navigate to http://localhost:3000 to see the app in action.
 
@@ -41,21 +40,21 @@ To build the app for production, use:
 bash
 
 npm run build
-# or
+or
 yarn build
 ###5. Preview the Production Build
 To preview the production build locally:
 bash
 npm run preview
 
-# or
+or
 yarn preview
 Linting
 To run the linter and check for code issues:
 
 bash
 npm run lint
-# or
+or
 
 yarn lint
 
